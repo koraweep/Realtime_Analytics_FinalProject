@@ -20,4 +20,4 @@
 - Napat Phongvichian 642042202
 
 
-#### Note: Related file such as video presentionation and code are in the attachment
+#### Note: Related file such as video presentionation and code are in the attachments
