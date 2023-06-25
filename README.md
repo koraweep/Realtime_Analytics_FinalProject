@@ -1,6 +1,6 @@
 # Realtime_Analytics_FinalProject
 
-### Topic: Improve game analytics from week 14
+### Topic: Improve Game Analytics from Week 14
 
 ### Existing Issue
 - The existing app does not utilize online machine learning (ML) for user behavior analytics, including both classification and clustering.
